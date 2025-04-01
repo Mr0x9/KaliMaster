@@ -59,31 +59,31 @@ Option E: Exit the script
 ## Available Tools (Fresh Install)
 When selecting Fresh Install, the following penetration testing tools will be installed:
 
-Metasploit Framework
+- **Metasploit Framework
 
-Hydra
+- **Hydra
 
-John the Ripper
+- **John the Ripper
 
-Burp Suite
+- **Burp Suite
 
-Wireshark
+- **Wireshark
 
-Gobuster
+- **Gobuster
 
-Aircrack-ng
+- **Aircrack-ng
 
-Nmap
+- **Nmap
 
-dnsrecon
+- **dnsrecon
 
-dirb
+- **dirb
 
-enum4linux
+- **enum4linux
 
-msfvenom
+- **msfvenom
 
-smbclient
+- **smbclient
 
 These tools are essential for various penetration testing and security research tasks.
 
@@ -109,11 +109,11 @@ Reading state information... Done
 ```
 ## Prerequisites
 
-· Kali Linux installed
+- **Kali Linux installed
 
-· A stable internet connection for package installations
+- **A stable internet connection for package installations
 
-· Root privileges to install packages and modify configurations
+- **Root privileges to install packages and modify configurations
 
 ## Contributing
 Feel free to fork the repository, open issues, or contribute to the development of KaliMaster. Pull requests are welcome!
