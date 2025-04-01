@@ -119,7 +119,9 @@ Reading state information... Done
 Feel free to fork the repository, open issues, or contribute to the development of KaliMaster. Pull requests are welcome!
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
