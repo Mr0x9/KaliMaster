@@ -1,5 +1,7 @@
 # KaliMaster - Kali Linux Management Toolset
 
+![KaliMaster Image](https://github.com/Mr0x9/KaliMaster/blob/main/KaliMaster.png?raw=true)
+
 **KaliMaster** is a simple and efficient toolset designed to automate Kali Linux setup and maintenance tasks. This script simplifies the process of setting up and maintaining a Kali Linux environment by offering a variety of utilities that handle missing package installations, penetration testing tool setups, and system upgrades.
 
 ## Features
