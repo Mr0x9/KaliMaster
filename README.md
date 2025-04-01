@@ -89,7 +89,7 @@ These tools are essential for various penetration testing and security research 
 
 ## Example Usage
 
-Run Fresh Install
+**Run**
 
 ```bash
 sudo ./kali_master.sh
